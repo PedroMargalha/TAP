@@ -1,0 +1,226 @@
+Airbus A330-900neo
+Uma estreia nos ares com a nossa assinatura
+A TAP Air Portugal é a primeira operadora do mundo a voar o novo A330-900neo. Esta aeronave está equipada com a cabina AirSpace by Airbus que, para além de um design inovador, é ainda mais silenciosa e espaçosa e fornece ainda iluminação aperfeiçoada e adaptada a cada fase de voo, contribuindo significativamente para o aumento do conforto do passageiro. Possui cadeiras full-flat de última geração na Classe Executiva e cadeiras mais ergonómicas e espaçosas em Económica.
+
+O A330-900neo é animado por um sistema de entretenimento e conectividade de última geração. Estas aeronaves são equipadas com motores Rolls-Royce Trent, sendo consideravelmente mais eficientes e consumindo em média menos 17% de combustível por cadeira que a geração anterior de aeronaves, resultando ainda numa redução muito significativa das emissões de CO2 e ruído.  
+
+ 
+COMPRIMENTO 63,69 m
+ENVERGADURA 64 m
+ALTURA 16,79 m
+ÁREA DAS ASAS 361,63 m2
+VELOCIDADE DE CRUZEIRO 930 km/h
+ALTITUDE DE CRUZEIRO 12,500 m
+ALCANCE 12,000 km
+CAPACIDADE DE COMBUSTÍVEL 139,090 l
+NÚMERO DE PASSAGEIROS 298
+NÚMERO DE AVIÕES 14
+
+--------------------------------------------------------------------------------------------------------
+
+Airbus A321LR
+O conforto premium do longo curso num narrow body
+O Airbus A321 Long Range está equipado com a tecnologia mais avançada. Concebido para operar voos do médio e do longo curso, a sua Classe Executiva inclui cadeiras full flat de última geração. Na Classe Económica, pode contar com cadeiras mais ergonómicas e espaçosas.
+
+Além destas características, o Airbus A321LR tem Wi-Fi a bordo que permite o envio gratuito e ilimitado de mensagens escritas.
+ 
+COMPRIMENTO 44,51 m
+ENVERGADURA 35,80 m
+ALTURA 11,76 m
+ÁREA DAS ASAS 122,4 m2
+VELOCIDADE DE CRUZEIRO 900 km/h
+ALTITUDE DE CRUZEIRO 11,900 m
+ALCANCE 7,400 km
+CAPACIDADE DE COMBUSTÍVEL 32,940 l
+NÚMERO DE PASSAGEIROS 168
+NÚMERO DE AVIÕES 2
+
+---------------------------------------------------------------------------------------------------------
+
+Airbus A321-200neo
+Mais ecológico e polivalente
+O A321neo acrescenta equipamentos, conforto e modernidade ao seu precursor, mas também uma maior eficiência. Consome até menos 15% de combustível do que o A321, revelando-se mais flexível em termos de operacionalidade e permitindo voar rotas mais longas.
+
+ 
+COMPRIMENTO 44,51 m
+ENVERGADURA 35,80 m
+ALTURA 11,76 m
+ÁREA DAS ASAS 122,4 m2
+VELOCIDADE DE CRUZEIRO 900 km/h
+ALTITUDE DE CRUZEIRO 11,900 m
+ALCANCE 6,000 km
+CAPACIDADE DE COMBUSTÍVEL 23,580 l
+NÚMERO DE PASSAGEIROS 216
+NÚMERO DE AVIÕES 6
+
+-------------------------------------------------------------------------------------------------------------
+
+Airbus A320-200neo
+Único e progressista
+O Airbus A320-200neo é uma versão melhorada do modelo A320. Possui mais espaço de carga e de cabina, bem como maior alcance, e incorpora motores de última geração e dispositivos SharkletTM nas asas. 
+
+Estas características transformam-no no avião de corredor único mais avançado e com maior economia de combustível. Permite uma redução das emissões poluentes e do ruído, face aos valores médios da indústria. 
+
+COMPRIMENTO 37,57 m
+ENVERGADURA 35,80 m
+ALTURA 12,08 m
+ÁREA DAS ASAS 122,40 m2
+VELOCIDADE DE CRUZEIRO 900 km/h
+ALTITUDE DE CRUZEIRO 11,900 m
+ALCANCE 6,500 km
+CAPACIDADE DE COMBUSTÍVEL 23.724 l
+NÚMERO DE PASSAGEIROS 174
+NÚMERO DE AVIÕES 6
+
+----------------------------------------------------------------------------------------------------------------
+
+Airbus A340-300
+Tranquilidade e conforto em longo curso
+O Airbus A340-300 dispõe do melhor conforto e serviço a bordo na mais tranquila cabine. É alimentado por quatro motores e opera independente das restrições que se aplicam a aviões a jato-twin o que permite voos diretos para os destinos.
+
+É também capaz de transportar até 25 toneladas como carga.
+
+COMPRIMENTO 63,69 m
+ENVERGADURA 60,30 m
+ALTURA 16,83 m
+ÁREA DAS ASAS 363,60 m2
+VELOCIDADE DE CRUZEIRO 930 km/h
+ALTITUDE DE CRUZEIRO 12,500 m
+ALCANCE 13,300 km
+CAPACIDADE DE COMBUSTÍVEL 140,640 l
+NÚMERO DE PASSAGEIROS 274
+NÚMERO DE AVIÕES 4
+
+---------------------------------------------------------------------------------
+
+Airbus A330-200
+O moderno
+O Airbus A330-200 é o mais recente modelo adquirido pela TAP e conta com 16 elementos na sua família.
+
+Moderno, confortável e eficiente, o Airbus A330 é um dos aviões preferidos, tanto pelas companhias, como pelos passageiros. Com um eficiente consumo e uma cabine confortável e silenciosa, é uma das estrelas da nossa frota.
+
+ 
+COMPRIMENTO 58,82 m
+ENVERGADURA 60,30 m
+ALTURA 17,39 m
+ÁREA DAS ASAS 361,60 m2
+VELOCIDADE DE CRUZEIRO 930 km/h
+ALTITUDE DE CRUZEIRO 12,500 m
+ALCANCE 12,000 km
+CAPACIDADE DE COMBUSTÍVEL 139,090 l
+NÚMERO DE PASSAGEIROS 263 / 269
+NÚMERO DE AVIÕES 10
+
+--------------------------------------------------------------------------------------
+
+Airbus A321-200
+O eficiente
+Dentro da família dos A320, o Airbus A321 é o maior e mais eficiente. Este avião, de um só corredor, é o mais comercializado nesta categoria. Confortáveis, eficientes e versáteis, estas aeronaves são utilizadas tanto em viagens curtas, como em destinos intercontinentais
+
+ 
+COMPRIMENTO 44,51 m
+ENVERGADURA 34,10 m
+ALTURA 12,09 m
+ÁREA DAS ASAS 122,40 m2
+VELOCIDADE DE CRUZEIRO 900 km/h
+ALTITUDE DE CRUZEIRO 11,900 m
+ALCANCE 4,600 km
+CAPACIDADE DE COMBUSTÍVEL 23,700 l
+NÚMERO DE PASSAGEIROS 216
+NÚMERO DE AVIÕES 4
+
+-----------------------------------------------------------------------------------------
+
+Airbus A320-200
+O Pai desta Família
+O Conforto é o melhor sinónimo para descrever o Airbus A320, devido à sua ampla cabine. Este airbus já dispõe de tecnologia de ponta colocando-o no topo da eficiência desta frota.
+
+A versão que originou toda a família, é considerado o standard da categoria. Tem um corredor único e é aquele com que todos se comparam.
+
+ 
+COMPRIMENTO 37,57 m
+ENVERGADURA 34,10 m
+ALTURA 12,14 m
+ÁREA DAS ASAS 122,40 m2
+VELOCIDADE DE CRUZEIRO 900 km/h
+ALTITUDE DE CRUZEIRO 11,900 m
+ALCANCE 5,500 km
+CAPACIDADE DE COMBUSTÍVEL 23,859 l
+NÚMERO DE PASSAGEIROS 174
+NÚMERO DE AVIÕES 20
+
+-------------------------------------------------------------------------------------------
+Airbus A319-100
+
+O seu companheiro de viagens curtas
+O mesmo conforto dos irmãos mais velhos e uma autonomia perfeita para as viagens mais curtas, falamos, claro, do Airbus A319-100. São 132 lugares, distribuídos pelas duas classes disponíveis, no entanto a distribuição dos assentos é variável. O Airbus A319 alia um espaço generoso a uma performance invejável, suportando 5700 km de voo.
+
+ 
+COMPRIMENTO 33,84 m
+ENVERGADURA 34,10 m
+ALTURA 12,17 m
+ÁREA DAS ASAS 122,40 m2
+VELOCIDADE DE CRUZEIRO 900 km/h
+ALTITUDE DE CRUZEIRO 11,900 m
+ALCANCE 5,700 km
+CAPACIDADE DE COMBUSTÍVEL 23,859 l
+NÚMERO DE PASSAGEIROS 144
+NÚMERO DE AVIÕES 21
+
+---------------------------------------------------------------------------------------------
+
+Embraer 195
+Contemplativo e amigo do ambiente
+O Embraer 195 é uma espécie de “estrela” dentro da sua família. Para além de ser a aeronave mais ampla da gama dos “E-jatos”, é também a mais leve, logrando maior economia de consumo de combustível. Com janelas quase 30% mais amplas do que os outros aviões, convida à contemplação da paisagem e corporiza um maior esforço para a preservar, graças à utilização de materiais mais silenciosos e de um motor menos poluente.
+
+ 
+COMPRIMENTO 38,65 m
+ENVERGADURA 28,72 m
+ALTURA 10,55 m
+ÁREA DAS ASAS 92,50 m2
+VELOCIDADE DE CRUZEIRO 870 km/h
+ALTITUDE DE CRUZEIRO 12,500 m
+ALCANCE 4,260 km
+CAPACIDADE DE COMBUSTÍVEL 12,971 l
+NÚMERO DE PASSAGEIROS 118
+NÚMERO DE AVIÕES 4
+
+---------------------------------------------------------------------------------------------
+
+Embraer 190
+Mais conforto, melhor ambiente
+Este Embraer 190 é um dos aviões mais atuais, de tecnologia avançada, que permite abrir novas rotas e chegar a novos mercados. São mais flexíveis, melhores ao nível de economia e eficiência. Os companheiros perfeitos!
+
+*esta aeronave é operada pela Portugália.
+
+ 
+COMPRIMENTO 36,24 m
+ENVERGADURA 28,72 m
+ALTURA 10,55 m
+ÁREA DAS ASAS 92,50 m2
+VELOCIDADE DE CRUZEIRO 890 km/h
+ALTITUDE DE CRUZEIRO 12,500 m
+ALCANCE 4,445 km
+CAPACIDADE DE COMBUSTÍVEL 12,971 l
+NÚMERO DE PASSAGEIROS 106
+NÚMERO DE AVIÕES 9
+
+------------------------------------------------------------------------------------------------
+
+ATR 72-600
+Doméstico, mas veloz
+O ATR 72-600 tem capacidade para 70 pessoas e faz voos domésticos. São mais vantajosos em rotas com mais de 750 Km, por serem mais velozes e de produtividade maior, em função da velocidade cruzeiro.
+
+*Esta aeronave é operada pela White.
+
+ 
+COMPRIMENTO 27,16 m
+ENVERGADURA 27,05 m
+ALTURA 7,65 m
+ÁREA DAS ASAS 61 m2
+VELOCIDADE DE CRUZEIRO 508 km/h
+ALTITUDE DE CRUZEIRO 7,620 m
+ALCANCE 1,529 km
+CAPACIDADE DE COMBUSTÍVEL 2,405 l
+NÚMERO DE PASSAGEIROS 70
+NÚMERO DE AVIÕES 8
